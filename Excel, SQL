@@ -1,0 +1,13 @@
+├── data/
+│   ├── raw/                # Original Excel files (Sales_2015-17, Traffic, Products)
+│   └── processed/          # Cleaned data exported via Python/SQL
+├── sql_queries/
+│   ├── employee_performance.sql   # Latest order tracking logic
+│   ├── sales_ranking_cte.sql      # Store performance & ranking by quarter
+│   └── data_formatting.sql        # Date casting and cleanup scripts
+├── python_scripts/
+│   ├── data_cleaning.py           # Handling missing values in Sales/Traffic data
+│   └── traffic_analysis.py        # Correlating P2P vs Retail traffic trends
+├── power_bi/
+│   └── Executive_Dashboard.pbix   # Final visualization file
+└── README.md                      # Project documentation
