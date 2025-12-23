@@ -1,5 +1,4 @@
 # 📈 End-to-End Sales & Transaction Analytics
-**Author:** Mohammed Azu, Lead Analyst
 
 ## 🎯 Project Objective
 This project integrates multi-source data (Web Traffic & Multi-year Sales) to identify performance bottlenecks in the retail conversion funnel. It showcases the transition from raw data cleaning in Python to high-level strategic reporting in Power BI.
